@@ -1,0 +1,80 @@
+body
+{
+    margin: 0;
+   
+}
+header
+{
+  left: 0;
+  right: 0;
+  padding: 0.5rem;
+  padding: 0.5;
+color: beige;
+  background-color: black
+
+}
+.logo
+{
+    display: inline-block;
+    vertical-align: middle;
+}
+nav{
+    display: inline-block;
+    text-align: right;
+    width: 90%;
+    vertical-align: middle;
+}
+nav ul
+{
+   list-style: none;
+}
+nav ul li
+{
+    display: inline-block;
+    margin: 1rem;
+}
+nav ul li a
+{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    padding: 0.2rem 0rem;
+    background-color: white;
+
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+}
+.host
+{
+    
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+
+}
+.body img
+{
+    
+    width: 20%;
+    margin-top: 5px;
+    
+    margin-left: 140px;
+}
+.not
+{
+   font-weight: bold;
+   margin-left: 40px;
+   margin-right: 30px;
+   font-size: 25px;
+}
+body
+{
+    background-color:rgb(232, 235, 236);
+}
+footer button{
+    
+    color:black;
+    font-weight: bold;
+    margin-left: 37px
+    
+    
+}

@@ -1,0 +1,45 @@
+form{
+    border: 1px solid;
+    padding-left:2.5em;
+    padding-bottom: 30px;
+    padding-right: 10px;
+    margin-left: 35em;
+    margin-right: 28em;
+    position: fixed;
+    margin-top: 30px;
+    background-color: white;
+    
+}
+
+
+    body {
+        background: linear-gradient(-125deg, orange 10%,red 30%,blue);
+        font-weight: bold;
+      }
+    .name
+    {
+       background-color: whitesmoke;
+        
+    }
+
+::placeholder
+{
+color:black
+}
+button
+{
+    background-color: skyblue;
+     font-weight: bold;
+     border-radius: 4px;
+     
+}
+input
+{
+    background-color: bisque;
+}
+.nam{
+    margin-left: 8em;
+}
+h1{
+    margin-left: 2em;
+}
